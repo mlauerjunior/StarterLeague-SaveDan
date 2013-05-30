@@ -1,0 +1,43 @@
+div.top {
+    background-color: #F8F8F8; 
+	height: 60px;
+	padding: 20px;
+}
+
+div.signup {
+	font-family: 'Open Sans';
+    float: right;
+	background-color: #f0f3f4;
+	border: 1px #d9e2e4 solid;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	padding: 0px 50px 15px 25px;
+	margin-right: 50px;
+	margin-top: -22px;
+	width: 450px;
+	height: 60px;
+	text-align: left;
+}
+
+div.signup h3 {
+	font-family: 'Open Sans';
+    text-align: left;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 33px;
+	float: left;
+	margin-top: 15px;
+}
+
+div.signup p {
+	font-family: 'Open Sans';
+    text-align: left;
+	font-size: 12px;
+	font-weight: lighter;
+	float: left;
+}
+
+div.signup img {
+	float: right;
+	margin: -25px -15px 0px 0px;
+}

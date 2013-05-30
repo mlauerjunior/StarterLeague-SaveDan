@@ -1,0 +1,60 @@
+body{font-family: 'Source Sans Pro', sans-serif;
+background:url('background.png')0 0 repeat;
+width:980px;
+margin:0px auto;
+}
+
+a{text-decoration: none;}
+
+header{
+height:117px;
+background-color:black;
+margin-top:-10px;}
+
+.logo{float:left;
+padding:30px 0 0 0px;}
+
+nav{line-height:30px}
+
+nav li{float:left;
+background:url('star.png') -1% 90%  no-repeat;
+padding:50px 5px 0 15px;
+font-size:15px;
+text-transform:uppercase;
+text-shadow:0 .2px 0 pink;}
+
+nav li:first-child{background:none;
+padding-left:0;}
+
+nav li:last-child{
+padding-right:0;}
+
+nav li a{color:#f7b915;
+padding:0 0 0 10px}
+
+
+nav li a:hover{color:#c44545;
+text-shadow:inset 0 .5px white;
+}
+
+.application{
+float:left;
+background-color:#c44545; 
+border:1px solid white;
+width:145px;
+height:40px;
+color:black;}
+
+.application a{color:black;}
+
+section{margin:0px auto;
+padding-left:30px;
+}
+
+.about{width:920px;
+margin:0px auto;
+background-color: white;
+border-radius:4px;
+padding:0 10px 0 10px;}
+
+.paragraph{font-size:15px;}
